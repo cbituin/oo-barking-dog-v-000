@@ -1,11 +1,7 @@
 # # Your code goes here!
 # 1. Define a class, called Dog. 
 class Dog
-  # def initialize(name, bark)
-  #   @name = name
-  #   @bark = bark
-  # end
-  
+
 # 2. Write a setter method, `.name=`, that allows you to give a dog a name.
   def name=(name)
     @name = name
